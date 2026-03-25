@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer who enjoys building across the full stack, from Next.js frontends to Rust internals. Recently got into ML and low-level performance work, exploring how math and algorithms translate into fast, reliable code.
+Software developer who enjoys building across the full stack, from Next.js frontends to Rust internals. Recently got into ML and low-level performance work, exploring how math and algorithms translate into fast, reliable code. Fresh git.
 
 
 ## 🌐 Socials:
